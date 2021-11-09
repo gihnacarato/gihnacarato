@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gihnacarato
-- 👀 I’m interested in Java, HTML, CSS e JavaScript
-- 🌱 I’m currently learning  HTLM
+- 👋 Hi, I’m  a Giovanna
+- 👀 I’m interested in Java, HTML, CSS, JavaScript e PHP.
+- 🌱 I’m currently learning  Mobile
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  
 Email: giovananacarato@live.com

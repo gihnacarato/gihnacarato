@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  a Giovanna
-- 👀 I’m interested in Java, HTML, CSS, JavaScript e PHP.
+- 👀 I’m interested in Java, HTML, CSS, JavaScript, PHP, Bootstrap, Wix and WordPress.
 - 🌱 I’m currently learning  Mobile
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  

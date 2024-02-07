@@ -38,13 +38,6 @@ Como Desenvolvedora Full Stack, mergulho tanto no back-end quanto no front-end p
 ![Oracle](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 
-
-<p align="center">
-  <a href="mailto:giovannanacarato0@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gihnacarato&show_icons=true&count_private=true&hide_border=true&title_color=722ACA&icon_color=722ACA&text_color=c9d1d9&bg_color=0d1117" alt="Giovanna Nacarato github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihnacarato&layout=compact&hide_border=true&title_color=722ACA&text_color=c9d1d9&bg_color=0d1117" />
@@ -54,4 +47,8 @@ Como Desenvolvedora Full Stack, mergulho tanto no back-end quanto no front-end p
 
 ![Snake animation](https://github.com/gihnacarato/gihnacarato/blob/main/github-contribution-grid-snake.svg)
 
-
+<hr/>
+<p align="center">
+  <a href="mailto:giovannanacarato0@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>

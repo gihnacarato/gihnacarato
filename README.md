@@ -1,32 +1,30 @@
 <img src="images/svg/header_pt.svg"></img>
 
-<table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
-</table>
-
 ### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Engenheiro de Software na [Cint](https://www.cint.com/). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela ciência e inovação.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre arquitetura de software, desenvolvimento e qualidade.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2004 com mais de 10 anos de experiencia em desenvolvimento de software empresarial.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Morando no Brasil com minha amada esposa :two_hearts:, Kali :service_dog: e Maia :service_dog:.
+Como Desenvolvedora Full Stack, mergulho tanto no back-end quanto no front-end para criar soluções robustas e visualmente cativantes. Minha paixão pela programação se entrelaça com meu compromisso em entender as nuances do sistema como um todo.
+<br><br>
+📘 Educação:<br>
+&nbsp;&nbsp;&nbsp;Análise e Desenvolvimento de Sistemas - FATEC São Paulo <br>
+&nbsp;&nbsp;&nbsp;Técnica em Desenvolvimento de Sistemas - ETEC Vila Formosa<br>
+&nbsp;&nbsp;&nbsp;Técnica em Contabilidade - ETEC Professor Camargo Aranha
 
 <p align="center">
-  <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/brunotacca/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:giovannanacarato0@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!--
-  <a href="https://twitter.com/BrunoTacca"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://lattes.cnpq.br/5511556848445955"><img src="https://img.shields.io/badge/lattes-FFFFFF.svg?&style=for-the-badge&&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACEFBMVEUAAAApQ14nQFj////r7/O8xMu8xMwnQlwmP1eeqLQjO1I2WHu1vsZjdYcsS2p4h5avuMI2XIPByM44ZJCbqrk1YYwtVn5mjrcxW4UwWIAvW4YAAAUrX5EvY5ksXIspW438/P0lU4EoV4ZhhKfe5u4nPVQqQlspQVsiO1QLJUAgNEkrRmEzUnI7X4Q/Y4dLZoJWbIJsfY7Axs4tS2k7YYicutixwtO5xM/U2d7r7e8hOFA6YoqErdWBnLc+Y4guT3E7VGw9U2hufY0wU3ZCcqKGqMlZgalKa4x0h5pofJD///80XYVCdal1l7t1nMNOhr6is8VMa4muusUlSGtDdqlQeaSqu8yGrNKVtte4zN90jqhBapObrL3///9Tfad4nMF9oshskLOJnK95gIZldodEX3oxW4ajtcf///8tVXw4YYlDa5JEbZY8XX0hPlsgQmS6ydj///8uWIEuX4/r7/QvYpcuZJrV3+r///8oWYsoXZKMqcbe5u7///8VN1YnWYyKp8PI1uP5+vz///9Rd52sv9Pd5e3///////9MfrBeksdOgrdUjslPh8FNhsFFea5BcaFJgrtHgLlGgLpii7VJf7dCerNDc6MqVYA0aZ1IeKktX5EtX5AsXY0tXY0wY5YyaZ4yaaB7ncAtZJouZJouZJssY5ovZZtrkbgnXZMlXJIoXpREc6I0ZZZTfaf///+qBrbaAAAAiXRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIl5fNRAFYND19Om8Zg5R7/zSmW8hCar98/DIVDYSE8r47OKPdgQRw+2x+7fQOgWa+G9+197Q/IsBVNrz/aQjWLL1sAw+5vbu7d3urAsQvHhn+7gbIdj2pCQCie64Wg0qqZVMEWJdG8oAAAABYktHRAMRDEzyAAAACXBIWXMAAAsSAAALEgHS3X78AAAAB3RJTUUH5QISCjIeEGUAIQAAAAFvck5UAc+id5oAAADXSURBVAjXY2BgZGJWVVPX0GRhZWNgYGDn0NLW0dXTNzA04gRyubiNTTq7TM3MLSx5eBkY+Kysu3tsbO3sHRyd+AUYBJ1devtc3fonuHt4egkxCHv7TJzk6+c/eUpAYJAIg2hwyNRpoWHhEZFR0TGxDGLicfEJiUnJKalp09MzGCQkM7Oyc3Lz8mfMnFVQyMAgVVQ8e87cefMXLFxUIs3AICNbWrZ4ydJly1eUVzAzMMjJV1atXLV6TXVNrQKQy6BYV792XUNjUzMzM4irpNzS2tbeoQLiAQAJLzuSRlKzowAAABZ0RVh0Q3JlYXRpb24gVGltZQAwNi8xOC8xMnLMg2gAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjEtMDItMThUMTA6NTA6MTQrMDA6MDBPCDl2AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIxLTAyLTE4VDEwOjUwOjE0KzAwOjAwPlWBygAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAASUVORK5CYII=" />
-  -->
 </p>
-
 <hr/>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gihnacarato&show_icons=true&count_private=true&hide_border=true&title_color=722ACA&icon_color=722ACA&text_color=c9d1d9&bg_color=0d1117" alt="Giovanna Nacarato github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihnacarato&layout=compact&hide_border=true&title_color=722ACA&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gihnacarato&bg_color=030005&color=7b68ee&line=722aca&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gihnacarato&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <details>
   <summary><b>:computer: &nbsp;Principal domínio tecnológico</b></summary>

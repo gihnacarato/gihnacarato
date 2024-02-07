@@ -1,4 +1,4 @@
-<img src="images/svg/header_pt.svg"></img>
+<img src="images/svg/header_pt.svg" style="padding-top:45px;height:350px"></img>
 
 ### :space_invader: &nbsp;Sobre mim
 
